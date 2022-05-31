@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://yomiaishida.github.io/contactmanager",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.2",
     "bootstrap": "^4.4.1",
     "classnames": "^2.2.6",
     "react": "^16.4.1",
